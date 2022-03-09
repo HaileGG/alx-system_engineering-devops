@@ -1,4 +1,5 @@
 0x02-shell, I/O redirections and filters
+
 Task#0 is a script that prints “Hello, World”, followed by a new line to the standard output. (0-hello_world)
 
 Task#1 is a script that displays a confused smiley "(Ôo)'. (1-confused_smiley)
